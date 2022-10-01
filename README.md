@@ -1,5 +1,13 @@
+<code>
+Template for AKM Model repositories:
+After you have used this template to make a new repository for your model project, replace "kavca-akm-template" below with your repository name, and edit the content of this file to describe your model project. (Also remember to remove these lines within the code tag.)
+</code>
+
+Kavca | [Upload models](UploadModels.md) | [ ](.md) | 
+
+
 # kavca-akm-template
-Template for AKM Model repositories
+
 # AKM Models
 
 This is a public repo for AKM models made in AKM Modeller and saved as .json files.
@@ -89,7 +97,6 @@ Click on "X" button in the top right corner to close the GitHub repository selec
 To upload a model to GitHub repository:
 
 First make sure you have saved your Project.json file locally (the model you want to upload), as described in item 3 above.
-
 
 [Procedure for uploading to Github repository](UploadModels.md)
 

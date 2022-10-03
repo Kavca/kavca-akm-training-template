@@ -130,4 +130,3 @@ First make sure you have saved your Project.json file locally (the model you wan
 ## Prosedure for uploading a model to GitHub repository
 
 [Upload models to Github repository](UploadModels.md)
-

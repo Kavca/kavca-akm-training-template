@@ -3,7 +3,9 @@ Template for AKM Model repositories:
 After you have used this template to make a new repository for your model project, replace "kavca-akm-template" below with your repository name, and edit the content of this file to describe your model project. (Also remember to remove these lines within the code tag.)
 </code>
 
+---
 Kavca | [Upload models](UploadModels.md) | [ ](.md) | 
+
 
 
 # kavca-akm-template
@@ -66,10 +68,31 @@ The file will by default be saved in Download folder as a "Projectname".json fil
 </details>
 
 ---
+
+### You can set up your browser to enable save to a folder
+
+<details> <summary markdown="span"> <code>Browser setup:</code> </summary>
+
+This makes it possible to overwrite the file you have loaded (you don't have to rename the model-file every time).
+
+<code>For Chrome:</code>
+
+Click on the three dots in upper right corner of the browser" and select "Settings" and then "Downloads" and enable the "Ask where to save each file before downloading".
+
+<code>For Edge:</code>
+
+Click on the three dots in upper right corner of the browser" and select "Settings" and then "Downloads" and enable the "Ask me what to do with each download".
+<code>For Safari:</code>
+
+Safari does not have the option select folder, but will download to the "Download" folder.
+Downloaded files will be deleted after one day by default.
+
+
+</details>
 ---
 ---
 
-## Open and save models on GitHub repository
+## Open and save models to GitHub repository
 
 To open a model stored on GitHub repository:
 
@@ -77,6 +100,10 @@ To open a model stored on GitHub repository:
 ..
 
 Click on "GitHub" button to open the dialog for GitHub repository and fill in the required fields.
+
+
+![GitHub dialog](img/GitHubDialog.png)
+
 
 - Repository URL:  <https://api.github.com/users/UserName/repos/>
 
@@ -98,5 +125,9 @@ To upload a model to GitHub repository:
 
 First make sure you have saved your Project.json file locally (the model you want to upload), as described in item 3 above.
 
-[Procedure for uploading to Github repository](UploadModels.md)
+---
+
+## Prosedure for uploading a model to GitHub repository
+
+[Upload models to Github repository](UploadModels.md)
 

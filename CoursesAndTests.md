@@ -1,10 +1,10 @@
-| [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | CoursesAndTests | [CourseworkSubmission ](CourseworkSubmission.md) |
+| [README ](README.md) | [ProjectworkGuide ](ProjectworkGuide.md) | [TheChallenge ](TheChallenge.md) | CoursesAndTests | [ProjectworkSubmission ](ProjectworkSubmission.md) |
  
 # Study course material
 
 ## Pre-requisites knowledge
 
-To Perform this Coursework you need following knowledge:
+To Perform this Projectwork you need following knowledge:
 
 1. Git and GitHub
 1. HTML - Basics [HTML](https://github.com/NtechSchool/sp--webapp-study-content/tree/main/web-tech/Web1/html-01/lesson.md)

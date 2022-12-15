@@ -4,6 +4,15 @@
 
 ## Pre-requisites knowledge
 
+### GitHub
+
+GitHub is a platform for hosting and collaborating on software projects. It allows developers to work together on a project by sharing and tracking changes to their code. With GitHub, developers can review each other's code, make suggestions for changes, and merge their changes into a single version of the code. Additionally, GitHub provides tools for managing and tracking issues, as well as project documentation and other resources. It is a popular platform among developers, and is used by many organizations and open-source projects to host and manage their code.
+
+
+### AKM Modeller
+
+
+
 ### Selftests
 
 You can take a selftest to check if you have the necessary knowledge. <code>( Right-click the link to open in new tab or window )</code>

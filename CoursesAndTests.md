@@ -1,8 +1,7 @@
 | [README ](README.md) | [ProjectworkGuide ](ProjectworkGuide.md) | [TheChallenge ](TheChallenge.md) | CoursesAndTests | [ProjectworkSubmission ](ProjectworkSubmission.md) |
- 
-# Study course material
 
-## Pre-requisites knowledge
+# Pre-requisites knowledge
+
 
 ### GitHub
 
@@ -11,7 +10,11 @@ GitHub is a platform for hosting and collaborating on software projects. It allo
 
 ### AKM Modeller
 
+AKM Modeller is the tool for building Active Knowledge Models, a modeling tool with integrated Use-case Modeling and Meta-modelling capabilities.
 
+---
+
+# Modelling course material
 
 ### Selftests
 

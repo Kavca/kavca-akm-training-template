@@ -7,4 +7,17 @@ assignees: SnorreFossland
 
 ---
 
-
+### Finished criteria:
+`This issue is finished when ……..`
+### What is the scope of this issue?
+Text @figure  #link [](url)
+### Why
+### How 
+- [ ] subtasks
+- [ ] Subtasks
+- [ ] subtasks https://github.com/octo-org/octo-repo/issues/45
+- [ ] Draft task
+### Who
+Roles and person
+### When
+Milestone 3
